@@ -15,5 +15,4 @@ public class Corredor {
     this.edad=edad;
   }
 
-  //Proband github
 }
